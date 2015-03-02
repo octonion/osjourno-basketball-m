@@ -1,2 +1,4 @@
 # osjourno-basketball-m
-Docker image for NCAA men's basketball analytics
+Docker image wrapping https://github.com/octonion/basketball-m
+
+Documentation needed!!!
