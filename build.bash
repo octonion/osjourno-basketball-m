@@ -1,4 +1,4 @@
 #! /bin/bash
 
-sudo docker build -t znmeb/osjourno-mens-bball . |& tee build.log
+sudo docker build -t znmeb/osjourno-basketball-m . |& tee build.log
 ./run.bash
